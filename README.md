@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadAdiib
+![alt text](https://tryhackme-badges.s3.amazonaws.com/firexfliex.png)
 - 👀 I’m interested in ...
 - 🌱 I’m working software developer. Mainly python and ELK
 - 💞️ I’m looking to collaborate on ...
@@ -6,7 +6,7 @@
 m.adiib.jamaludin@gmail.com
 
 
-![alt text](https://tryhackme-badges.s3.amazonaws.com/firexfliex.png)
+
 
 
 <!---
