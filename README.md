@@ -6,7 +6,7 @@
 m.adiib.jamaludin@gmail.com
 
 
-![tryhackme stats](https://raw.githubusercontent.com/vorschit/vorschit/master/assets/thm_propic.png)
+![alt text](https://tryhackme-badges.s3.amazonaws.com/firexfliex.png)
 
 
 <!---
