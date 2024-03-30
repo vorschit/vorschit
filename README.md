@@ -6,7 +6,7 @@
 m.adiib.jamaludin@gmail.com
 
 
-![tryhackme stats](https://raw.githubusercontent.com/firexfliex/firexfliex/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/vorschit/vorschit/master/assets/thm_propic.png)
 
 
 <!---
